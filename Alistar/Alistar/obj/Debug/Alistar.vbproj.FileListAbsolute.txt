@@ -1,0 +1,16 @@
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\bin\Debug\Alistar.exe.config
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\bin\Debug\Alistar.exe
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\bin\Debug\Alistar.pdb
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\bin\Debug\Alistar.xml
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\bin\Debug\EloBuddy.dll
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\bin\Debug\SharpDX.dll
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\obj\Debug\Alistar.Resources.resources
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\obj\Debug\Alistar.vbproj.GenerateResource.Cache
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\obj\Debug\Alistar.exe
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\obj\Debug\Alistar.xml
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\obj\Debug\Alistar.pdb
+C:\Users\Zver\Desktop\1234\Alistar\Alistar\obj\Debug\Alistar.vbprojResolveAssemblyReference.cache
