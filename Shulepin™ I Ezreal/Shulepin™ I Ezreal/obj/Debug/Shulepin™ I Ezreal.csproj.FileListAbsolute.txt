@@ -1,0 +1,12 @@
+c:\users\prime\documents\visual studio 2017\Projects\EloBuddy\Shulepin™ I Ezreal\Shulepin™ I Ezreal\bin\Debug\EloBuddy.dll
+c:\users\prime\documents\visual studio 2017\Projects\EloBuddy\Shulepin™ I Ezreal\Shulepin™ I Ezreal\bin\Debug\EloBuddy.SDK.dll
+c:\users\prime\documents\visual studio 2017\Projects\EloBuddy\Shulepin™ I Ezreal\Shulepin™ I Ezreal\bin\Debug\SharpDX.dll
+c:\users\prime\documents\visual studio 2017\Projects\EloBuddy\Shulepin™ I Ezreal\Shulepin™ I Ezreal\bin\Debug\SharpDX.XInput.dll
+c:\users\prime\documents\visual studio 2017\Projects\EloBuddy\Shulepin™ I Ezreal\Shulepin™ I Ezreal\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\prime\documents\visual studio 2017\Projects\EloBuddy\Shulepin™ I Ezreal\Shulepin™ I Ezreal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\prime\Documents\Visual Studio 2017\Projects\EloBuddy\Shulepin™ I Ezreal\Shulepin™ I Ezreal\bin\Debug\Hin™ I Ezreal.exe.config
+C:\Users\prime\Documents\Visual Studio 2017\Projects\EloBuddy\Shulepin™ I Ezreal\Shulepin™ I Ezreal\bin\Debug\Hin™ I Ezreal.exe
+C:\Users\prime\Documents\Visual Studio 2017\Projects\EloBuddy\Shulepin™ I Ezreal\Shulepin™ I Ezreal\bin\Debug\Hin™ I Ezreal.pdb
+C:\Users\prime\Documents\Visual Studio 2017\Projects\EloBuddy\Shulepin™ I Ezreal\Shulepin™ I Ezreal\obj\Debug\Shulepin™ I Ezreal.csprojResolveAssemblyReference.cache
+C:\Users\prime\Documents\Visual Studio 2017\Projects\EloBuddy\Shulepin™ I Ezreal\Shulepin™ I Ezreal\obj\Debug\Hin™ I Ezreal.exe
+C:\Users\prime\Documents\Visual Studio 2017\Projects\EloBuddy\Shulepin™ I Ezreal\Shulepin™ I Ezreal\obj\Debug\Hin™ I Ezreal.pdb
